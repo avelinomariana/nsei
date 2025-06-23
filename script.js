@@ -8,3 +8,4 @@ flashcards.forEach(card => {
         card.classList.toggle('active');
     });
 });
+
